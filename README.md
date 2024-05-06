@@ -68,4 +68,4 @@ El resultado de la operación permite volver a hacer otra operación a partir de
 
 - **Calculadora de Angulos (Logotipo)** : Creado por Gabriel Serrat Espejo (yo).
 - **Logopixies Font** : Creado por Heaven Castro. Freeware Licence. [logopixies font link](https://www.fontspace.com/logopixies-font-f40772). [info.txt](src/grafica/assets/logopixies/info.txt).
-- **Lato Font** : Creado por [yPoland Lukasz Dziedzic](mailto:team@latofonts.com). [OFL License v1.1 (26/02/2007)](src/grafica/assets/lato/OLF.txt).
+- **Lato Font** : Creado por [yPoland Lukasz Dziedzic](mailto:team@latofonts.com). [OFL License v1.1 (26/02/2007)](src/grafica/assets/lato/OFL.txt).
