@@ -1,4 +1,4 @@
-# java_calculadoraDeAngulos
+# Calculadora_de_Angulos
 App de calculadora de angulos hecha en Java y Swing
 
 ![Logotipo de Calculadora de Angulos](README_img/CalculadoraDeAngulos_logo.png)
